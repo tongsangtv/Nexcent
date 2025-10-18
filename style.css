@@ -86,7 +86,8 @@ body {
   justify-content: center;
   gap: 70px;
   flex-direction: column;
-  padding: 96px 144px 16px 144px;
+  width: 100%;
+  padding: 96px 0px 16px 0px;
 }
 .top-slide1 {
   display: flex;
@@ -145,6 +146,9 @@ body {
 .bot-slide1 {
   width: 46px;
   height: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .slide2 {
   display: flex;
@@ -672,7 +676,9 @@ body {
 .body-foot2 {
   display: flex;
   gap: 125px;
-  padding: 64px 165px;
+  width: 100%;
+  justify-content: center;
+  padding: 64px 0px;
 }
 .left-foot2 {
   display: flex;
