@@ -5,6 +5,7 @@ body {
   margin: 0;
   width: 100%;
   font-family: "Inter", sans-serif;
+  min-width: 1245px;
 }
 .header {
   width: 100%;
@@ -17,6 +18,8 @@ body {
 .body-header {
   display: flex;
   align-items: center;
+  width: 100%;
+  justify-content: center;
 }
 .box1-header {
   width: 154.49px;
