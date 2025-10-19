@@ -461,7 +461,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  width: 615px;
+  width: 603px;
 }
 .sec4-slide3 {
   display: flex;
@@ -800,5 +800,6 @@ body {
 }
 .mail-foot2 img {
 }
+
 
 
