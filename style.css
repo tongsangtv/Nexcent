@@ -336,7 +336,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  width: 603px;
+  width: 601px;
 }
 .tit-slide3 {
   font-weight: 600;
@@ -802,3 +802,4 @@ body {
 }
 .mail-foot2 img {
 }
+
