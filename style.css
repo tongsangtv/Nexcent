@@ -4,7 +4,7 @@
 body {
   margin: 0;
   width: 100%;
-  font-family: "Inter", sans-serif;
+  font-family: "Inter";
   min-width: 1245px;
 }
 .header {
@@ -461,10 +461,9 @@ body {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  width: 620.8px;
 }
 .gap-sec3 .p-slide3 {
-  width: 603px;
+  width: 601px;
 }
 .sec4-slide3 {
   display: flex;
